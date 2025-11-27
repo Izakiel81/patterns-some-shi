@@ -1,0 +1,5 @@
+[
+ {"id":1,"name":"Crazy Dave","email":"dave@gmail.com","role":"SuperAdmin"},
+ {"id":2,"name":"John","email":"str2@gmail.com","role":"User"},
+ {"id":3,"name":"Serj","email":"str@gmail.com","role":"SuperAdmin"}
+]
